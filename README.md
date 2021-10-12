@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... becoming a software engineer
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm a veteran 
+- ⚡ Fun fact: ... I am a veteran 
 -->
