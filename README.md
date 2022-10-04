@@ -5,6 +5,5 @@
 - 👯 I’m looking to collaborate on coding projects
 - 🤔 I’m looking for help with becoming a software developer 
 - 💬 Ask me about dogs, crossfit, or outdoor activities
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- 😄 Pronouns: He/Him 
 -->
