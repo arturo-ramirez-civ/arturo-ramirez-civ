@@ -1,4 +1,4 @@
-### Welcome... Here is what im currently working on!
+### Welcome...Here is what im currently working on!
 
 - 🔭 I’m working towards a B.S. in computer science
 - 🌱 I’m currently supplementing my course work with a Web Developer Bootcamp course
